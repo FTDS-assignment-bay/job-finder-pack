@@ -6,7 +6,7 @@ Welcome to the FTDS Job Finder Pack! This program is designed to enhance your sk
 
 Each folder, we will focus on specific exercise journey every week. You will have opportunities to apply your knowledge through hands-on projects.
 
-- Week 1: Virtual Internship Forage(pick topic) + Hackerrank Certification
+- Week 1: Virtual Internship Forage + Hackerrank Certification
 - Week 2: Python Exercise (Basic and Control Flow)
 - Week 3: SQL Exercise (Basic)
 - Week 4: Python Exercise (Pandas)
