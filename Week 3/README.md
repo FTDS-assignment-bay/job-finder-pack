@@ -1,4 +1,4 @@
-# :two: Python Exercise
+# :three: SQL Exercise
 
 Welcome to the Week 3 Task! On this week, we focus on SQL exercise. You may solve a case using a dummy database. You don't need to create the database since it is provided in the problem (in html tables).
 
