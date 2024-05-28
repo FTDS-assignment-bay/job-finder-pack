@@ -11,9 +11,8 @@ Each folder, we will focus on specific exercise journey every week. You will hav
 - Week 3: SQL Exercise (Basic)
 - Week 4: Python Exercise (Pandas)
 - Week 5: SQL Exercise (Window Functions, Subqueries)
-- Week 6: Hackerrank Python Certification
-- Week 7: Hackerrank SQL Certification
-- Week 8: Virtual Internship Forage (Pick a topic)
+- Week 6: Hackerrank Python and SQL Certifications
+- Week 7: Virtual Internship Forage (Pick a topic)
 
 ## 📚  Resources
 
