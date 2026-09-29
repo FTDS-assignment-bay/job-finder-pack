@@ -21,3 +21,7 @@ Throughout the pack, you are also provided several reading materials outside the
 At the end of this program, you will have the technical skills required for data related positions. We are excited to embark on this journey with you and help you achieve your career goals in the field of data jobs.
 
 Let's get started and prepare you for a successful career in data jobs!
+
+## ✍🏻 Submission Guidelines
+
+**Please fork this repository. You can view a tutorial on forking at this [link](https://docs.github.com/en/pull-requests/how-tos/work-with-forks/fork-a-repo#forking-a-repository). Please upload the requested items to your forked repository.**
